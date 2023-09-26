@@ -30,8 +30,8 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 <h2 align="center">Links</h2>
 
-- Solution URL: [ EasyBank | Landing Page (SASS + ViteJS + Grid Layout)](https://www.frontendmentor.io/solutions/easybanking-landing-page-suing-tailwindcss-and-vitejs-1NmaVvjHz0)
-- Live Site URL: [EasyBank | Landing Page ] (https://easybank-topaz.vercel.app/)
+- Solution URL: [Interactive rating component](https://www.frontendmentor.io/solutions/interactive-rating-component-To2XXyE3bL)
+- Live Site URL: [Interactive rating component] (https://rating-component-orpin.vercel.app/)
 
 <br>
 
